@@ -9,6 +9,8 @@ tmp/
 local.properties
 .settings/
 .loadpath
+derby.log
+Images/
 
 # Eclipse Core
 .project
