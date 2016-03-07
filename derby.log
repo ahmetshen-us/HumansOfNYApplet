@@ -1,6 +1,6 @@
 ----------------------------------------------------------------
-Sun Jan 10 16:07:44 EST 2016:
-Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.1 - (1616546): instance a816c00e-0152-2d5d-bf06-00000e394370 
+Fri Feb 19 10:20:54 EST 2016:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.1 - (1616546): instance a816c00e-0152-fa1e-94d6-00000e394370 
 on database directory /Users/chown_chmod1/workspace-development/eclipse/HumansOfNYApplet/Images with class loader sun.misc.Launcher$AppClassLoader@1b6d3586 
 Loaded from file:/Users/chown_chmod1/workspace-development/eclipse/HumansOfNYApplet/lib/derby.jar
 java.vendor=Oracle Corporation
@@ -8,6 +8,6 @@ java.runtime.version=1.8.0_65-b17
 user.dir=/Users/chown_chmod1/workspace-development/eclipse/HumansOfNYApplet
 os.name=Mac OS X
 os.arch=x86_64
-os.version=10.11.2
+os.version=10.11.3
 derby.system.home=null
 Database Class Loader started - derby.database.classpath=''
